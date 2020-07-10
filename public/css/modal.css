@@ -1,0 +1,11 @@
+.alert-form{
+
+    color:darkred;
+
+}
+
+.input-error{
+
+    border-color: darkred;
+    border-width: 1.5px;
+}

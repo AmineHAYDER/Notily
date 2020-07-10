@@ -1,0 +1,36 @@
+h3{
+    font-family: 'Raleway', cursive;
+    color: #999797;
+    margin-left: 10px;
+}
+.page-content{
+    margin: 90px;
+}
+.notes-container {
+    padding:20px;
+    border-left: 2px solid #999999;
+}
+.notes{
+    margin:5px;
+    padding:8px;
+    height:590px;
+    overflow-y: scroll;
+    background-color: #e5e7de;
+    border-radius: 5px;
+}
+.note-header{
+    background-color: #4e7fff;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
